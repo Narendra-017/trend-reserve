@@ -3,7 +3,7 @@
 **Trend-Reserve** is a modern e-commerce web application for ordering stylish and trendy clothes online. It offers a seamless shopping experience with user-friendly design, secure login, and role-based access for users and admins.
 
 ## 🌐 Live Demo
-[Link to Live Demo (if available)](https://trend-reserve.vercel.com)
+[Link to Live Demo](https://trend-reserve.vercel.app)
 
 ---
 
